@@ -1,7 +1,7 @@
 # portfolio
 Meu Portfólio
 
-- Fazer um design no papel
+- Fazer um design no papel ✔
 
 - Passar para o figma
 

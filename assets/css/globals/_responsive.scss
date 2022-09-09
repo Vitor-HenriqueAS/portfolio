@@ -1,0 +1,16 @@
+@media only screen and (max-width: 950px) {
+
+	header {
+		flex-direction: column;
+
+		.about {
+			width: 300px;
+			margin-top: 20px;
+			text-align: justify;
+
+			h2 {
+				text-align: center;
+			}
+		}
+	}
+}
